@@ -9,7 +9,7 @@ Below are tutorials related to using Intel/Altera tools and development boards:
 
 - **Quartus Prime:**
 
-  [DE1-SoC_Assignment_Pins]()  
+  [DE1-SoC_Assignment_Pins](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/board-settings/DE1_SoC_assignment_pins.qsf)  
 
 - **USB Blaster:**
   
