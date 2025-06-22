@@ -77,7 +77,7 @@ Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPG
 
 - **Gowin Semiconductor**
 
-[GoWin EDA and FPGA](https://www.gowinsemi.com/en/)
+[Gowin EDA and FPGA](https://www.gowinsemi.com/en/)
 
 
 
