@@ -34,5 +34,19 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
 - **Zynq / Zynq UltraScale+:**  
   *Coming soon*
 
+---
+
+## 📚 Tutorials for Gowin Devices and Tools
+
+Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPGA boards:
+
+- **Gowin EDA Setup:**  
+  Coming soon
+
+- **Tang Primer:**  
+  Coming soon
+
+- **Gowin Soft-Core CPU:**  
+  Coming soon
 
 
