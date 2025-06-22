@@ -53,4 +53,32 @@ Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPG
 - **Gowin Soft-Core CPU:**  
   Coming soon
 
+---
+
+### 🔗 Useful Links
+
+- **Intel/Altera**
+
+[Intel Quartus Prime Lite](https://www.intel.com.br/content/www/br/pt/collections/products/fpga/software/downloads.html?s=Newest)
+
+[FPGAcademy - Monitor Program](https://fpgacademy.org/tools.html)
+
+[Intel FPGA official documentation](https://www.intel.com/content/www/us/en/products/details/fpga.html)
+
+[DE1-SoC Computer ARM Tutorial (PDF)](https://fpgacademy.org/Downloads/DE1-SoC_Computer_ARM.pdf)
+
+[DE10-Standard Computer ARM Tutorial (PDF)](https://fpgacademy.org/Downloads/DE10-Standard_Computer_ARM.pdf) 
+
+- **AMD/Xilinx**
+
+[AMD Vivado™ Design Suite](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html)
+
+[AMD University](https://www.amd.com/pt/corporate/university-program.html)
+
+- **Gowin Semiconductor**
+
+[GoWin EDA and FPGA](https://www.gowinsemi.com/en/)
+
+
+
 
