@@ -21,7 +21,7 @@ Below are tutorials related to using Intel/Altera tools and development boards:
 
 - **Monitor Program:**
 
-  [Installing Intel/Altera Monitor Program 18.1 on Windows 10]
+  [Installing Intel/Altera Monitor Program 18.1 on Windows 10](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/Installing%20Intel-Altera%20Monitor%20Program%2018.1%20on%20Windows%2010.md)
 
 ---
 
