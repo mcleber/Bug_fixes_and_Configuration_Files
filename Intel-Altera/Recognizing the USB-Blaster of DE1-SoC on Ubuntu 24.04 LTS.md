@@ -1,22 +1,22 @@
-## 🔌 Recognizing the USB-Blaster of DE1-SoC on Ubuntu 24.04 LTS
+# 🔌 Recognizing the USB-Blaster of DE1-SoC on Ubuntu 24.04 LTS
 
 This tutorial explains how to configure your Ubuntu 24.04 system to properly recognize the **USB-Blaster** cable of the **DE1-SoC** board, allowing programming and debugging through Quartus or other FPGA tools.
 
 ---
 
-### 🧩 Problem
+## 🧩 Problem
 
 On Ubuntu, the USB-Blaster cable for the DE1-SoC may not be automatically detected, preventing the programmer from loading projects onto the FPGA.
 
 ---
 
-### ✅ Solution
+## ✅ Solution
 
 Create a specific udev rule for the USB-Blaster of the DE1-SoC that grants access without requiring root permissions.
 
 ---
 
-### 📝 Step-by-step instructions
+## 📝 Step-by-step instructions
 
 1. Connect the DE1-SoC USB-Blaster cable to your computer.
 
@@ -60,7 +60,7 @@ You should see permissions like:
 
 ---
 
-### 💡 Additional Tips
+## 💡 Additional Tips
 
 Add your user to the ``` plugdev ``` group to ensure you have the required permissions:
 
