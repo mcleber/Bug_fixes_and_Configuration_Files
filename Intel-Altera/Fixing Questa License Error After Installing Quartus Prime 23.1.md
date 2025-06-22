@@ -1,22 +1,22 @@
-# 🛠️ Fixing Questa License Error After Installing Quartus Prime 23.1
+## 🛠️ Fixing Questa License Error After Installing Quartus Prime 23.1
 
 This tutorial explains how to fix the license issue with **Questa Intel FPGA Edition** after installing **Quartus Prime 23.1**, where even with the license provided, Questa fails to launch or prevents HDL code simulation.
 
 ---
 
-## 🔧 Problem
+### 🔧 Problem
 
 Even after adding the license file, Questa **does not start correctly**, making it impossible to simulate HDL projects.
 
 ---
 
-## ✅ Solution
+### ✅ Solution
 
 You need to manually add the environment variable `LM_LICENSE_FILE` in Windows, pointing to the location of the `.dat` license file.
 
 ---
 
-## 📝 Step-by-Step Instructions
+### 📝 Step-by-Step Instructions
 
 1. Open the **Control Panel**.
 2. Go to **System** → click **Advanced system settings**.
@@ -40,13 +40,13 @@ You need to manually add the environment variable `LM_LICENSE_FILE` in Windows, 
 
 ---
 
-## ✅ Expected Result
+### ✅ Expected Result
 
 After configuring the environment variable correctly, Questa should launch normally and allow HDL simulations.
 
 ---
 
-## 📎 Related Resources
+### 📎 Related Resources
 
 - [Download Quartus Prime 23.1](https://www.intel.com.br/content/www/br/pt/software-kit/795188/intel-quartus-prime-lite-edition-design-software-version-23-1-for-windows.html)
 - [Intel FPGA official documentation](https://www.intel.com/content/www/us/en/products/details/fpga.html)
