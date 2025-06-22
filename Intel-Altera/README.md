@@ -1,55 +1,55 @@
-# 🛠️ Corrigindo o Erro de Licença do Questa após Instalar o Quartus Prime 23.1
+# 🛠️ Fixing Questa License Error After Installing Quartus Prime 23.1
 
-Este tutorial explica como resolver o problema de licença do **Questa Intel FPGA Edition** após instalar o **Quartus Prime 23.1**, onde mesmo com a licença fornecida, o Questa não abre ou impede a simulação de código HDL.
-
----
-
-## 🔧 Problema
-
-Mesmo após inserir a licença do Questa, o simulador **não inicia** corretamente, impossibilitando o uso para projetos HDL.
+This tutorial explains how to fix the license issue with **Questa Intel FPGA Edition** after installing **Quartus Prime 23.1**, where even with the license provided, Questa fails to launch or prevents HDL code simulation.
 
 ---
 
-## ✅ Solução
+## 🔧 Problem
 
-Você precisa adicionar manualmente a variável de ambiente `LM_LICENSE_FILE` no Windows, apontando para o arquivo `.dat` da licença.
+Even after adding the license file, Questa **does not start correctly**, making it impossible to simulate HDL projects.
 
 ---
 
-## 📝 Instruções Passo a Passo
+## ✅ Solution
 
-1. Abra o **Painel de Controle**.
-2. Vá em **Sistema** → clique em **Configurações avançadas do sistema**.
-3. Na aba **Avançado**, clique em **Variáveis de Ambiente...**.
+You need to manually add the environment variable `LM_LICENSE_FILE` in Windows, pointing to the location of the `.dat` license file.
 
-   ![Aba Avançado](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/images/aba_avancado.png)
+---
 
-4. Em **Variáveis do sistema**, clique em **Novo...**.
-5. Preencha os campos:
+## 📝 Step-by-Step Instructions
 
-   - **Nome da variável:** `LM_LICENSE_FILE`  
-   - **Valor da variável:** Caminho completo até o arquivo `.dat` da licença.  
-     Exemplo:
+1. Open the **Control Panel**.
+2. Go to **System** → click **Advanced system settings**.
+3. In the **Advanced** tab, click **Environment Variables...**.
+
+   ![Advanced tab](images/aba_avancado.png)
+
+4. Under **System variables**, click **New...**.
+5. Fill in the fields as follows:
+
+   - **Variable name:** `LM_LICENSE_FILE`  
+   - **Variable value:** Full path to the license `.dat` file.  
+     Example:
      ```
      C:\intelFPGA\23.1\licenses\license.dat
      ```
 
-   ![Exemplo de variável criada](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/images/variavel_license.png)
+   ![Example of created variable](images/variavel_license.png)
 
-6. Clique em **OK** para salvar e **reinicie** o computador ou terminal.
-
----
-
-## ✅ Resultado Esperado
-
-Após configurar a variável corretamente, o Questa deve abrir normalmente e permitir a simulação de seus projetos.
+6. Click **OK** to save and then **restart** your computer or terminal.
 
 ---
 
-## 📎 Recursos Relacionados
+## ✅ Expected Result
+
+After configuring the environment variable correctly, Questa should launch normally and allow HDL simulations.
+
+---
+
+## 📎 Related Resources
 
 - [Download Quartus Prime 23.1](https://www.intel.com.br/content/www/br/pt/software-kit/795188/intel-quartus-prime-lite-edition-design-software-version-23-1-for-windows.html)
-- [Documentação oficial FPGA Intel](https://www.intel.com/content/www/us/en/products/details/fpga.html)
+- [Intel FPGA official documentation](https://www.intel.com/content/www/us/en/products/details/fpga.html)
 
 ---
 
