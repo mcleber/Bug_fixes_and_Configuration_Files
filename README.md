@@ -8,7 +8,7 @@ This repository compiles notes, fixes, and configuration files related to bugs a
 Below are tutorials related to using Intel/Altera tools and development boards:
 
 - **Quartus Prime:**
-
+  
   [DE1-SoC_Assignment_Pins](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/board-settings/DE1_SoC_assignment_pins.qsf)  
 
 - **USB Blaster:**
@@ -18,6 +18,10 @@ Below are tutorials related to using Intel/Altera tools and development boards:
 - **Questa:**
 
   [Fixing Questa License Error After Installing Quartus Prime 23.1](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/Fixing%20Questa%20License%20Error%20After%20Installing%20Quartus%20Prime%2023.1.md)
+
+- **Monitor Program:**
+
+  [Installing Intel/Altera Monitor Program 18.1 on Windows 10]
 
 ---
 
