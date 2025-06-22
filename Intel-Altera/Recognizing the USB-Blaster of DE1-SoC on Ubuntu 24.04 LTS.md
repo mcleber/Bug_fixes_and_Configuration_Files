@@ -60,7 +60,7 @@ You should see permissions like:
 
 ---
 
-##💡 Additional Tips
+### 💡 Additional Tips
 
 Add your user to the ``` plugdev ``` group to ensure you have the required permissions:
 
