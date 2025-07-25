@@ -50,4 +50,4 @@ After renaming the libraries and installing the one provided by Ubuntu, the Viti
 
 ### 📎 Related Resources
 
-- [AMD Forum](https://adaptivesupport.amd.com/s/question/0D5KZ00000vvAYM0A2/i-am-facing-the-same-problem-with-vitis-20251-and-ubuntu-24042-it-runs-but-the-gui-doesnt-open?language=en_US)
+- [AMD Forums](https://adaptivesupport.amd.com/s/question/0D5KZ00000vvAYM0A2/i-am-facing-the-same-problem-with-vitis-20251-and-ubuntu-24042-it-runs-but-the-gui-doesnt-open?language=en_US)
