@@ -72,6 +72,8 @@ Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPG
 
 - **AMD/Xilinx**
 
+[AMD Forums](https://adaptivesupport.amd.com/s/topiccatalog?language=en_US)
+
 [AMD Vivado™ Design Suite](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html)
 
 [AMD University](https://www.amd.com/pt/corporate/university-program.html)
