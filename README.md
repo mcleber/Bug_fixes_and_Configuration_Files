@@ -33,7 +33,7 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
   *Coming soon*
 
 - **Vitis / Vitis HLS:**  
-  *Coming soon*
+  Vitis 2025.1 GUI does not open on Ubuntu 24.04.2
 
 - **Zynq / Zynq UltraScale+:**  
   *Coming soon*
