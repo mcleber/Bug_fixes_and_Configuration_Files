@@ -2,7 +2,7 @@
 
 This tutorial explains how to fix the launch issue of Vitis 2025.1.
 
-I found this solution on the **AMD Forum**. The original link is provided at the end.
+I found this solution on the **AMD Forums**. The original link is provided at the end.
 
 ---
 
