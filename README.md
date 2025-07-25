@@ -32,8 +32,9 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
 - **Vivado:**  
   *Coming soon*
 
-- **Vitis / Vitis HLS:**  
-  Vitis 2025.1 GUI does not open on Ubuntu 24.04.2
+- **Vitis / Vitis HLS:**
+  
+  [Vitis 2025.1 GUI does not open on Ubuntu 24.04.2 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/AMD-Xilinx/Vitis%202025.1%20GUI%20does%20not%20open%20on%20Ubuntu%2024.04.2%20LTS.md)
 
 - **Zynq / Zynq UltraScale+:**  
   *Coming soon*
