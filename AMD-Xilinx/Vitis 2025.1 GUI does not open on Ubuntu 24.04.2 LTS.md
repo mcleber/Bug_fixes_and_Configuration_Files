@@ -35,6 +35,11 @@ To fix it, you need to use the versions provided by Ubuntu instead of the ones b
    ```sudo apt update```
    
    ```sudo apt install libstdc++6``` or  ```sudo apt install libstdc++6:amd64```
+
+4. Create symbolic link:
+
+   ```ln -s /usr/lib/x86_64-linux-gnu/libstdc++.so.6 libstdc++.so```
+   
 ---
 
 ### ✅ Expected Result
