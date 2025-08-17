@@ -8,7 +8,7 @@ This tutorial explains how to fix the Vulkan Driver error in Unreal Engine 5.6 w
 
 When creating a new project, the message “Vulkan Driver is required to run the engine” appears because Unreal Engine 5.6 requires Shader Model 6 (SM6), but the AMD RX580 GPU only supports Shader Model 5 (SM5). As shown in the image:
 
-![Message](link-to-your-image.png)
+![Message](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Unreal_Engine/image/message.png)
 
 ---
 
@@ -39,7 +39,7 @@ To fix the issue, we need to disable SM6 and enable SM5 after creating a new pro
 
 As shown in the image:
 
-![sm5](link-to-your-image.png)
+![sm5](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Unreal_Engine/image/sm5.png)
 
 6. Save the file and reopen your project.
 
