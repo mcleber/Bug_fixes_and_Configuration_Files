@@ -56,6 +56,16 @@ Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPG
 
 ---
 
+## 📚 Tutorials for Unreal Engine 5
+
+Below are tutorials related to using Unreal Engine 5:
+
+- **Unreal Engine 5.6:**
+
+[Fixing the Vulkan Driver Error in Unreal Engine 5.6 on Ubuntu 24.04.3 LTS]{}
+
+---
+
 ### 🔗 Useful Links
 
 - **Intel/Altera**
@@ -81,6 +91,10 @@ Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPG
 - **Gowin Semiconductor**
 
 [Gowin EDA and FPGA](https://www.gowinsemi.com/en/)
+
+- **Unreal Engine**
+
+[Unreal Engine](https://www.unrealengine.com/en-US)
 
 
 
