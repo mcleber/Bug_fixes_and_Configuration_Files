@@ -62,7 +62,7 @@ Below are tutorials related to using Unreal Engine 5:
 
 - **Unreal Engine 5.6:**
 
-[Fixing the Vulkan Driver Error in Unreal Engine 5.6 on Ubuntu 24.04.3 LTS]{}
+  [Fixing the Vulkan Driver Error in Unreal Engine 5.6 with AMD RX580 on Ubuntu 24.04.3 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Unreal_Engine/Fixing%20the%20Vulkan%20Driver%20Error%20in%20Unreal%20Engine%205.6%20with%20AMD%20RX580%20on%20Ubuntu%2024.04.3%20LTS.md)
 
 ---
 
