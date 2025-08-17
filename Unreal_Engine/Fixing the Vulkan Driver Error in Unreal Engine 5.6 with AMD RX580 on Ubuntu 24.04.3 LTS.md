@@ -21,11 +21,13 @@ To fix the issue, we need to disable SM6 and enable SM5 after creating a new pro
 ### 📝 Step-by-Step Instructions:
 
 1. Close Unreal Engine if it is open.
+  
 2. Navigate to your project directory:
 
 ```<project_directory>/Config```
 
 3. Open the file `DefaultEngine.ini`.
+  
 4. Locate the section:
 
 ```[/Script/LinuxTargetPlatform.LinuxTargetSettings]```
