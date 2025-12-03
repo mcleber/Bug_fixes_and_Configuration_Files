@@ -9,12 +9,8 @@ Below are tutorials related to using Intel/Altera tools and development boards:
 
 - **Quartus Prime:**
   
-  [DE1-SoC_Assignment_Pins](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/board-settings/DE1_SoC_assignment_pins.qsf)  
-
-- **USB Blaster:**
+  *Coming soon*
   
-  [Recognizing the USB-Blaster of DE1-SoC on Ubuntu 24.04 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/Recognizing%20the%20USB-Blaster%20of%20DE1-SoC%20on%20Ubuntu%2024.04%20LTS.md)
-
 - **Questa:**
 
   [Fixing Questa License Error After Installing Quartus Prime 23.1](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/Fixing%20Questa%20License%20Error%20After%20Installing%20Quartus%20Prime%2023.1.md)
@@ -23,6 +19,16 @@ Below are tutorials related to using Intel/Altera tools and development boards:
 
   [Installing Intel/Altera Monitor Program 18.1 on Windows 10](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/Installing%20Intel-Altera%20Monitor%20Program%2018.1%20on%20Windows%2010.md)
 
+- **USB Blaster:**
+  
+  [Recognizing the USB-Blaster of DE1-SoC on Ubuntu 24.04 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/Recognizing%20the%20USB-Blaster%20of%20DE1-SoC%20on%20Ubuntu%2024.04%20LTS.md)
+
+- **Boards and Settings:**
+ 
+  [DE1-SoC Assignment Pins](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/board-settings/DE1_SoC_assignment_pins.qsf)
+  
+  [DE10-Standard Assignment Pins](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Intel-Altera/board-settings/DE10-Standard_assignment_pins_33.qsf)  
+
 ---
 
 ## 📚 Tutorials for AMD/Xilinx Devices and Tools
@@ -30,14 +36,23 @@ Below are tutorials related to using Intel/Altera tools and development boards:
 Below are tutorials related to using AMD/Xilinx tools and development boards:
 
 - **Vivado:**  
+
   *Coming soon*
 
 - **Vitis / Vitis HLS:**
   
   [Vitis 2025.1 GUI does not open on Ubuntu 24.04.2 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/AMD-Xilinx/Vitis%202025.1%20GUI%20does%20not%20open%20on%20Ubuntu%2024.04.2%20LTS.md)
 
-- **Zynq / Zynq UltraScale+:**  
-  *Coming soon*
+- **SDK / Vivado HLS:**
+
+  [Adding the PYNQ-Z2 Board to Vivado HLS 2017.1](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/AMD-Xilinx/Adding%20the%20PYNQ-Z2%20Board%20to%20Vivado%20HLS%202017.1.md)
+
+- **Boards and Settings:**
+
+  [Boards](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/tree/main/AMD-Xilinx/boards)
+
+  [XDC Contraints](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/tree/main/AMD-Xilinx/xdc)
+
 
 ---
 
@@ -46,13 +61,13 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
 Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPGA boards:
 
 - **Gowin EDA Setup:**  
-  Coming soon
+  *Coming soon*
 
 - **Tang Primer:**  
-  Coming soon
+  *Coming soon*
 
 - **Gowin Soft-Core CPU:**  
-  Coming soon
+  *Coming soon*
 
 ---
 
