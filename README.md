@@ -1,5 +1,5 @@
 # Bug fixes and Configuration Files
-This repository compiles notes, fixes, and configuration files related to bugs and issues encountered during the installation and use of various software tools on both Linux and Windows platforms.
+This repository compiles notes, fixes, and configuration files that address common issues and bugs encountered during the installation and use of various software tools on both Linux and Windows platforms.
 
 ---
 
