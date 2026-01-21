@@ -61,7 +61,7 @@ The solution involves renaming a library, creating a symbolic link to another li
 
    ```./Gowin_USB_Cable_Installer.sh```
 
-   7. Launch Gowin EDA:
+7. Launch Gowin EDA:
 
    ```./gw_ide```
 
