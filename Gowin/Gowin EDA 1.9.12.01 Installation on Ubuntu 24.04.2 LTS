@@ -1,0 +1,14 @@
+## 🛠️ Gowin EDA 1.9.12.01 Installation on Ubuntu 24.04.2 LTS
+
+This tutorial shows how to install Gowin EDA 1.9.12.01 on Ubuntu 24.04.2 LTS and fix the following errors:
+
+- `symbol lookup error`
+- `QXcbIntegration: Cannot create platform OpenGL context...`
+
+---
+
+### 🔧 Problem
+
+The error occurs because the software tries to use an incompatible version of the ```libfreetype``` library.
+
+
