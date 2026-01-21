@@ -60,8 +60,9 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
 
 Below are tutorials related to using **Gowin EDA** tools and **Tang Primer** FPGA boards:
 
-- **Gowin EDA Setup:**  
-  *Coming soon*
+- **Gowin EDA Setup:**
+    
+  [Gowin EDA 1.9.12.01 Setup on Ubuntu 24.04.2 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/Gowin/Gowin%20EDA%201.9.12.01%20Setup%20on%20Ubuntu%2024.04.2%20LTS)
 
 - **Tang Primer:**  
   *Coming soon*
