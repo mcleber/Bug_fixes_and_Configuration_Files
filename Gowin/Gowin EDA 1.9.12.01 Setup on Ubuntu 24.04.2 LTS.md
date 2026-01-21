@@ -39,31 +39,31 @@ The solution involves renaming a library, creating a symbolic link to another li
 
 5. Add the following environment variables:
 
-  ```
-  export QT_QPA_PLATFORM_PLUGIN_PATH=/usr/lib/x86_64-linux-gnu/qt5/plugins
-  export QT_QPA_PLATFORM=xcb
-  export QT_XCB_GL_INTEGRATION=none
-  ```
+   ```
+   export QT_QPA_PLATFORM_PLUGIN_PATH=/usr/lib/x86_64-linux-gnu/qt5/plugins
+   export QT_QPA_PLATFORM=xcb
+   export QT_XCB_GL_INTEGRATION=none
+   ```
 
-  To do this via terminal, open the ~/.bashrc file:
+   To do this via terminal, open the ~/.bashrc file:
 
-  ```nano ~/.bashrc```
+   ```nano ~/.bashrc```
 
-  Scroll to the end of the file and paste the variables. Then save the file and apply the changes:
+   Scroll to the end of the file and paste the variables. Then save the file and apply the changes:
 
-  ```source ~/.bashrc```
+   ```source ~/.bashrc```
 
 6. Install the USB driver. Navigate to the directory:
 
-```cd /opt/Gowin_V1.9.12.01_linux/Programmer/Driver/```
+   ```cd /opt/Gowin_V1.9.12.01_linux/Programmer/Driver/```
 
-Then run the installer script:
+   Then run the installer script:
 
-```./Gowin_USB_Cable_Installer.sh```
+   ```./Gowin_USB_Cable_Installer.sh```
 
-7. Launch Gowin EDA:
+   7. Launch Gowin EDA:
 
-  ```./gw_ide```
+   ```./gw_ide```
 
 ---
 
@@ -75,5 +75,5 @@ After completing these steps, the software should run normally.
 
 ### 📎 Related Resources
 
-After completing these steps, the software should run normally.
+-
 
