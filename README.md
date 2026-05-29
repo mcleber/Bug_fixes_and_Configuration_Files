@@ -37,7 +37,7 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
 
 - **Vivado:**  
 
-  *Coming soon*
+ [Adding the PYNQ-Z2 Board to Vivado 2025.2]
 
 - **Vitis / Vitis HLS:**
   
