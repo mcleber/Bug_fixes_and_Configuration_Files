@@ -1,6 +1,8 @@
 # Bug fixes and Configuration Files
 This repository compiles notes, fixes, and configuration files that address common issues and bugs encountered during the installation and use of various software tools on both Linux and Windows platforms.
 
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ---
 
 ## 📚 Tutorials for Intel/Altera Devices and Tools
@@ -86,31 +88,31 @@ Below are tutorials related to using Unreal Engine 5:
 
 - **Intel/Altera**
 
-[Intel Quartus Prime Lite](https://www.intel.com.br/content/www/br/pt/collections/products/fpga/software/downloads.html?s=Newest)
+  [Intel Quartus Prime Lite](https://www.intel.com.br/content/www/br/pt/collections/products/fpga/software/downloads.html?s=Newest)
 
-[FPGAcademy - Monitor Program](https://fpgacademy.org/tools.html)
+  [FPGAcademy - Monitor Program](https://fpgacademy.org/tools.html)
 
-[Intel FPGA official documentation](https://www.intel.com/content/www/us/en/products/details/fpga.html)
+  [Intel FPGA official documentation](https://www.intel.com/content/www/us/en/products/details/fpga.html)
 
-[DE1-SoC Computer ARM Tutorial (PDF)](https://fpgacademy.org/Downloads/DE1-SoC_Computer_ARM.pdf)
+  [DE1-SoC Computer ARM Tutorial (PDF)](https://fpgacademy.org/Downloads/DE1-SoC_Computer_ARM.pdf)
 
-[DE10-Standard Computer ARM Tutorial (PDF)](https://fpgacademy.org/Downloads/DE10-Standard_Computer_ARM.pdf) 
+  [DE10-Standard Computer ARM Tutorial (PDF)](https://fpgacademy.org/Downloads/DE10-Standard_Computer_ARM.pdf) 
 
 - **AMD/Xilinx**
 
-[AMD Forums](https://adaptivesupport.amd.com/s/topiccatalog?language=en_US)
+  [AMD Forums](https://adaptivesupport.amd.com/s/topiccatalog?language=en_US)
 
-[AMD Vivado™ Design Suite](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html)
+  [AMD Vivado™ Design Suite](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html)
 
-[AMD University](https://www.amd.com/pt/corporate/university-program.html)
+  [AMD University](https://www.amd.com/pt/corporate/university-program.html)
 
 - **Gowin Semiconductor**
 
-[Gowin EDA and FPGA](https://www.gowinsemi.com/en/)
+  [Gowin EDA and FPGA](https://www.gowinsemi.com/en/)
 
 - **Unreal Engine**
 
-[Unreal Engine](https://www.unrealengine.com/en-US)
+  [Unreal Engine](https://www.unrealengine.com/en-US)
 
 
 
