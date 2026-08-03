@@ -1,7 +1,7 @@
 # Bug fixes and Configuration Files
 This repository compiles notes, fixes, and configuration files that address common issues and bugs encountered during the installation and use of various software tools on both Linux and Windows platforms.
 
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-MIT-darkgray)
 
 ---
 
