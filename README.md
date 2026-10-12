@@ -41,6 +41,8 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
 
   [Adding the PYNQ-Z2 Board to Vivado 2025.2](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/AMD-Xilinx/Adding%20the%20PYNQ-Z2%20Board%20to%20Vivado%202025.2.md)
 
+  [Installing libncurses5 for Vivado 2025.2.1 on Ubuntu 26.04 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/AMD-Xilinx/Installing%20libncurses5%20for%20Vivado%202025.2.1%20on%20Ubuntu%2026.04%20LTS.md).
+
 - **Vitis / Vitis HLS:**
   
   [Vitis 2025.1 GUI does not open on Ubuntu 24.04.2 LTS](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/blob/main/AMD-Xilinx/Vitis%202025.1%20GUI%20does%20not%20open%20on%20Ubuntu%2024.04.2%20LTS.md)
