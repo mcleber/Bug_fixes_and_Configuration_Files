@@ -53,6 +53,8 @@ Below are tutorials related to using AMD/Xilinx tools and development boards:
 
 - **Boards and Settings:**
 
+  [Manuals](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/tree/main/AMD-Xilinx/manuals)
+
   [Boards](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/tree/main/AMD-Xilinx/boards)
 
   [XDC Contraints](https://github.com/mcleber/Bug_fixes_and_Configuration_Files/tree/main/AMD-Xilinx/xdc)
